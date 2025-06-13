@@ -5,15 +5,7 @@
 
 ## Description
 
-This project aims to use encryption algorithms to encrypt SQL databases.
-
-We use the AES-GCM-256 bit algorithm to encrypt key data columns in the table, with each column having a 256 bit AES key.
-
-We then further use the CP-ABE algorithm to encrypt those 256-bit AES keys based on policies provided by the data owner.
-
-Next, we will set permissions for data users through ABAC based on the policies and attributes provided by the data owner.
-
-Finally, upload the encrypted data to Amazon RDS MySQL for storage.
+This project aims to use encryption algorithms to encrypt SQL databases. We use the AES-GCM-256 bit algorithm to encrypt key data columns in the table, with each column having a 256 bit AES key. We then further use the CP-ABE algorithm to encrypt those 256-bit AES keys based on policies provided by the data owner. Next, we will set permissions for data users through ABAC based on the policies and attributes provided by the data owner. Finally, upload the encrypted data to Amazon RDS MySQL for storage.
 
 Data users who want to query must go through 4 layers:
 + **Bcrypt**: used to authenticate passwords
