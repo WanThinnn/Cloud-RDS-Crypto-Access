@@ -34,7 +34,7 @@ Currently, the project has only developed the ability to query encrypted data th
 
 1. Lai Quan Thien
 2. Le Minh Quan
-
+3. Dang Duc Tai
 
 
 ## Demo
