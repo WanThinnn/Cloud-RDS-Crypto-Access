@@ -17,13 +17,9 @@ To be more intuitive, we use the **PyQT6** library to create a simple interface.
 
 Currently, the project has only developed the ability to query encrypted data through csv files. In the future we will try to develop more missing features such as: querying that encrypted data in real time,...
 
-<!-- 
-## Authors
+## System Architecture
+![image](https://github.com/user-attachments/assets/29794de2-0c25-49a3-99fd-ecbcc027671d)
 
-
-* [WanThinn](https://github.com/WanThinnn)
-* [DduckTai](https://github.com/dducktai)
-* [2uaan1ee]((https://github.com/2uaan1ee)) -->
 
 ## Contributors<!-- Required -->
 <!-- 
@@ -32,9 +28,9 @@ Currently, the project has only developed the ability to query encrypted data th
 * Generate github contributors Image here https://contrib.rocks/preview?repo=angular%2Fangular-ja
 -->
 
-1. Lai Quan Thien
-2. Le Minh Quan
-3. Dang Duc Tai
+<a href="https://github.com/WanThinnn/Cryptography-Project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=WanThinnn/Cryptography-Project" />
+</a>
 
 ## Demo
 [![Watch the video]](https://github.com/WanThinnn/Cryptography-Project/assets/89849825/4f0bc234-0b52-4c2b-b94a-e59daf5453a5)
