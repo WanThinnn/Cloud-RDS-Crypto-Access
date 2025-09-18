@@ -17,7 +17,8 @@ To be more intuitive, we use the **PyQT6** library to create a simple interface.
 Currently, the project has only developed the ability to query encrypted data through csv files. In the future we will try to develop more missing features such as: querying that encrypted data in real time,...
 
 ## System Architecture
-![image](https://github.com/user-attachments/assets/29794de2-0c25-49a3-99fd-ecbcc027671d)
+<img width="1627" height="753" alt="System-Architecture" src="https://github.com/user-attachments/assets/04b65022-db6c-4604-8663-61bb4b7ca9ba" />
+
 
 
 ## Contributors<!-- Required -->
