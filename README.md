@@ -37,7 +37,7 @@ Currently, the project has only developed the ability to query encrypted data th
 
 
 ## Dependencies
-* Operating Systems: macOS, Linux. (Currently, this project cannot be developed on Windows using Python. However, there is a similar project available in [Hybrid Ciphertext Policy Attribute Based Encryption Library for C/C++]((https://github.com/WanThinnn/Hybrid-CP-ABE-Library)).)
+* Operating Systems: macOS, Linux. (Currently, this project cannot be developed on Windows using Python. However, there is a similar project available in [Hybrid Ciphertext Policy Attribute Based Encryption Library for C/C++](https://github.com/WanThinnn/Hybrid-CP-ABE-Library))
 * Programing Language: Python3 (version 3.10.11).
 * Libraries: 
     * [openSSL](http://www.openssl.org/)
